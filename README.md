@@ -1,6 +1,6 @@
 # training-tweaks README
 
-This is a very simple readme that sets a few user settings at startup which we can't preset, but would like to alter the defaults without recompiling the server.
+This is a very simple Visual Studio Code extension that sets a few user settings at startup which we can't preset in [open-vscodeserver](https://github.com/gitpod-io/openvscode-server) without recompiling the server.
 
 ## Features
 
