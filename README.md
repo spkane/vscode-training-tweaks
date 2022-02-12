@@ -25,6 +25,10 @@ Setting `update.mode` to `none` officially requires a restart of Visual Studio C
 
 ## Release Notes
 
+### 0.0.2
+
+Minor update to fix a security issue in an underlying npm dependency.
+
 ### 0.0.1
 
 Initial release of training-tweaks
