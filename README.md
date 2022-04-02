@@ -34,6 +34,10 @@ vsce package
   
 ## Release Notes
 
+### 0.0.3
+
+Minor update to fix a security issue in an underlying npm dependency.
+
 ### 0.0.2
 
 Minor update to fix a security issue in an underlying npm dependency.

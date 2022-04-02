@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "displayName": "Training Tweaks",
   "description": "Visual Studio Tweaks for training sessions.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
 	"type": "git",
 	"url": "https://github.com/spkane/vscode-training-tweaks.git"
